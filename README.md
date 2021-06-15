@@ -23,6 +23,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 
 ### Entries
 - Ayush Deep [Marteeen23](https://github.com/Marteeen23)
+- Parth Jindal [parthjindal](https://github.com/parthjindal)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
