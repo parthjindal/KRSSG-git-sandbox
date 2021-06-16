@@ -22,6 +22,7 @@ Your entry should maintain alphabetic order and it should be in the format:
 - Only one file should be there in the diff of your Pull Request.
 
 ### Entries
+Vasav [Vasav-Y](https://github.com/Vasav-Y)
 ## Task 2
 
 After all of you send a Pull Request, I'll add my name to 'Entries'. 
